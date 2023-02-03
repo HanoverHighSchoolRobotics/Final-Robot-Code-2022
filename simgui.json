@@ -1,0 +1,14 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/DriveTrain": "Subsystem",
+      "/LiveWindow/ShootDown": "Subsystem",
+      "/LiveWindow/ShootUp": "Subsystem",
+      "/LiveWindow/ShooterIn": "Subsystem",
+      "/LiveWindow/ShooterOut": "Subsystem",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler"
+    }
+  }
+}
